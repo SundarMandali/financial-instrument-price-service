@@ -124,9 +124,9 @@ The tests verify:
 🚀 How to Run
 1. Clone the repo
 
-git clone https://github.com/<your-username>/<repo-name>
+`git clone <repo-url>`
 
-cd <repo-name>
+`cd <repo-name>`
 
 2. Run the application
 
